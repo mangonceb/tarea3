@@ -1,5 +1,3 @@
-alert("HOLA");
-
 //Elementos cambiar tipografía
 let elemento = document.getElementById("nombre");
 let nombreOr = elemento.innerText;
